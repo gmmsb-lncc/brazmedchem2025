@@ -11,7 +11,7 @@
 > Check out our [open-source projects](https://github.com/gmmsb-lncc/)!
 
 <div align="left">
-<p>GMMSB presentations @ the Brazilian Symposium on Medicinal Chemistry BrazMedChem 2025 - Búzios (RJ).</p>
+<p>GMMSB presentations @ the Brazilian Symposium on Medicinal Chemistry (BrazMedChem) 2025 - Búzios (RJ).</p>
 </div>
 
 
